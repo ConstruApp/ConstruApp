@@ -2,14 +2,18 @@
 
 
 **ConstruApp é um projeto universitário com o objetivo de desenvolver um aplicativo que ajude a resolver os problemas de atrasos em obras.**
+\n
 **- Em desenvolvimento pelos alunos do Centro Universitário Newton Paiva - Campus Buritis I**
 
 **#Alunos:**
 
 **- Andréia Carvalho 
-- Bruno Ramalho 
+
+**- Bruno Ramalho 
 **- Eduardo De Lapouble  
-- Lariane Spalenza
+
+**- Lariane Spalenza
 **- Marcella Cristina 
-- Rafael Soares 
+
+**- Rafael Soares 
 
