@@ -7,10 +7,10 @@
 
 ### **Alunos:**
 
-**- Andréia Carvalho\n 
-**- Bruno Ramalho\n 
-**- Eduardo De Lapouble\n  
-**- Lariane Spalenza\n
-**- Marcella Cristina\n 
-**- Rafael Soares\n 
+**- Andréia Carvalho** 
+**- Bruno Ramalho** 
+**- Eduardo De Lapouble**  
+**- Lariane Spalenza**
+**- Marcella Cristina** 
+**- Rafael Soares** 
 
