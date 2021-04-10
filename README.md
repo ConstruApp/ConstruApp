@@ -1,19 +1,16 @@
-### BEM VINDO AO CONSTRUAPP! 👋
+## BEM VINDO AO CONSTRUAPP! 👋
 
 
 **ConstruApp é um projeto universitário com o objetivo de desenvolver um aplicativo que ajude a resolver os problemas de atrasos em obras.\n**
 
 **- Em desenvolvimento pelos alunos do Centro Universitário Newton Paiva - Campus Buritis I**
 
-# **Alunos:**
+### **Alunos:**
 
-**- Andréia Carvalho 
-
-**- Bruno Ramalho 
-**- Eduardo De Lapouble  
-
-**- Lariane Spalenza
-**- Marcella Cristina 
-
-**- Rafael Soares 
+**- Andréia Carvalho\n 
+**- Bruno Ramalho\n 
+**- Eduardo De Lapouble\n  
+**- Lariane Spalenza\n
+**- Marcella Cristina\n 
+**- Rafael Soares\n 
 
