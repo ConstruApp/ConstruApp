@@ -8,9 +8,13 @@
 ### **Alunos:**
 
 **- Andréia Carvalho** 
-**- Bruno Ramalho** 
-**- Eduardo De Lapouble**  
-**- Lariane Spalenza**
-**- Marcella Cristina** 
-**- Rafael Soares** 
 
+**- Bruno Ramalho** 
+
+**- Eduardo De Lapouble**  
+
+**- Lariane Spalenza**
+
+**- Marcella Cristina** 
+
+**- Rafael Soares** 
