@@ -1,0 +1,1 @@
+Elaborar os Testes Unitários da Aplicação. Poderá utilizar a biblioteca JUnit (Java) ou criar instâncias de objetos no main e executar os principais métodos (construtor e outros implementados).
